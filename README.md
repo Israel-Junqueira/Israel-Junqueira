@@ -1,10 +1,12 @@
 ## hiiii i'm rael 👋
+ <img rigth align="150" height='150px' width ='250px'  alt="Rafa-yoda" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47bqpq4alcew1dmqw9ek8m5zdub2jtlmxl3eh5bl84&rid=giphy.gif&ct=g"> 
 
- <div>
+<div>
   <a href="https://github.com/Israel-Junqueira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>   
 </div>
+ 
   <h1>Conhecimentos</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
