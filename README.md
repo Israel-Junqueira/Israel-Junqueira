@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Israel-Junqueira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>   
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp 
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>   
 </div>
  
   <img align="center" alt=".net" height="100" width="150" src="https://media.giphy.com/media/H6ikSWPFewZ97pefqC/giphy.gif?cid=ecf05e47m1jdrrkpb7hpnr3piyrknmblaf67mhbd6zvbi97h&rid=giphy.gif&ct=s"> 
