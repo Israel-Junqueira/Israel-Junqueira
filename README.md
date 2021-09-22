@@ -1,7 +1,7 @@
 
  <img align="right" height='150px' width ='200px'  alt="gif" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif?cid=ecf05e47evwi6xm5novije62mm4tgic8e7bkkj0jt85gun7o&rid=giphy.gif&ct=s"> 
  
-##  Hii i'm  <img height="100em" src="https://media.giphy.com/media/MB0yjtk1OwvSiVGAF3/giphy.gif?cid=ecf05e47xecczu8e48vg7mlgdn7blkdl0c5axl7kwmprfn6i&rid=giphy.gif&ct=s"/> 
+##  Hii i'm   <img height="100em" src="https://media.giphy.com/media/MB0yjtk1OwvSiVGAF3/giphy.gif?cid=ecf05e47xecczu8e48vg7mlgdn7blkdl0c5axl7kwmprfn6i&rid=giphy.gif&ct=s"/> 
 
 <div>
   <a href="https://github.com/Israel-Junqueira">
@@ -32,7 +32,7 @@
 </div>
   
   #
-  
+ 🌎 Onde me encontrar:
   <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
