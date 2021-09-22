@@ -1,13 +1,9 @@
 ## hiiii i'm rael 👋
 
-- 📚 Hoje estou estudando back-end 
-- 📖 Estudando C#,SQL,.NET
-
-
  <div>
   <a href="https://github.com/Israel-Junqueira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   <h1>Conhecimentos</h1>
 <div style="display: inline_block"><br>
