@@ -1,5 +1,7 @@
-## hiiii i'm rael 👋
- <img rigth align="150" height='150px' width ='250px'  alt="Rafa-yoda" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47bqpq4alcew1dmqw9ek8m5zdub2jtlmxl3eh5bl84&rid=giphy.gif&ct=g"> 
+
+ <img align='500px' height='150px' width ='200px'  alt="Rafa-yoda" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47bqpq4alcew1dmqw9ek8m5zdub2jtlmxl3eh5bl84&rid=giphy.gif&ct=g"> 
+ 
+## hii i'm rael 👋
 
 <div>
   <a href="https://github.com/Israel-Junqueira">
