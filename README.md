@@ -1,5 +1,5 @@
 
- <img align='500px' height='150px' width ='200px'  alt="gif" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif?cid=ecf05e47evwi6xm5novije62mm4tgic8e7bkkj0jt85gun7o&rid=giphy.gif&ct=s"> 
+ <img align="right" height='150px' width ='200px'  alt="gif" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif?cid=ecf05e47evwi6xm5novije62mm4tgic8e7bkkj0jt85gun7o&rid=giphy.gif&ct=s"> 
  
 ##  Hii i'm  <img height="100em" src="https://media.giphy.com/media/MB0yjtk1OwvSiVGAF3/giphy.gif?cid=ecf05e47xecczu8e48vg7mlgdn7blkdl0c5axl7kwmprfn6i&rid=giphy.gif&ct=s"/> 
 
