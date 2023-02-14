@@ -27,8 +27,7 @@
  
   <img align="center" alt=".net" height="40" width="0" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e47iez7m894x3ugqvn73v5706ryf0n1xa8wy42b8kfn&rid=giphy.gif&ct=s">
   <img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt=".net" height="30" width="40" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=ecf05e47k2gweqmfmcudo0o5v4pnmrohj9yh7phvl4ggfvmg&rid=giphy.gif&ct=s">
-  <img align="center" alt=".net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">                                                                                                                                          
+  <img align="center" alt=".net" height="30" width="40" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif?cid=ecf05e47k2gweqmfmcudo0o5v4pnmrohj9yh7phvl4ggfvmg&rid=giphy.gif&ct=s">                                                                                                                                          
 </div>
   
   #
