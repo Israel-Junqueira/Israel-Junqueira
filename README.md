@@ -9,11 +9,13 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>   
 </div>
  Skils
-  <img align="center" alt=".net" height="100" width="150" src="https://media.giphy.com/media/H6ikSWPFewZ97pefqC/giphy.gif?cid=ecf05e47m1jdrrkpb7hpnr3piyrknmblaf67mhbd6zvbi97h&rid=giphy.gif&ct=s"> 
+  <img align="center" alt=".net" height="100" width="150" src="[https://media.giphy.com/media/H6ikSWPFewZ97pefqC/giphy.gif?cid=ecf05e47m1jdrrkpb7hpnr3piyrknmblaf67mhbd6zvbi97h&rid=giphy.gif&ct=s](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)"> 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Giphy" height="50" width="50" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e47wha9886j037ovdt1acx2rkfl8dbsxjxdr77zxkar&rid=giphy.gif&ct=s">
+ <img align="center" alt="Giphy" height="50" width="50" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif">
  
+  <img align="center" alt="Giphy" height="50" width="50" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif">
   <img align="center" alt="giphy" height="50" width="50" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47jno1xu84hendyjsy6h5op9iiylwwdb8fdm1ok0rd&rid=giphy.gif&ct=s">
  
   <img align="center" alt="giphy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
