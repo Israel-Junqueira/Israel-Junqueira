@@ -8,7 +8,7 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp&nbsp&nbsp 
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=gruvbox"/>   
 </div>
- Skils
+ Skils - Desenvolvedor Web  <img align="center" alt=".net" height="100" width="150" src="https://media.giphy.com/media/eCwAEs05phtK/giphy.gif"> 
   <img align="center" alt=".net" height="100" width="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"> 
  
 <div style="display: inline_block"><br>
