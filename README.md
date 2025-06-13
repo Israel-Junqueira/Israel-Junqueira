@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Rael
+### 👋 Olá, eu sou o Israel
 
 <img align="right" height="150px" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" />
 
@@ -16,17 +16,6 @@ Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquite
 - Flutter (básico)
 
 📈 Atualmente atuo no setor financeiro, com foco em modernização de sistemas para cooperativas de crédito e construção de microsserviços escaláveis.
-
----
-
-<div align="center">
-  <a href="https://github.com/Israel-Junqueira">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
-
----
 
 ### 🚀 Minhas Skills
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
@@ -58,3 +47,14 @@ Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquite
 ✨ "Mais do que código, escrevo soluções com propósito."
 
 > Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+
+---
+
+<div align="center">
+  <a href="https://github.com/Israel-Junqueira">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Israel-Junqueira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-Junqueira&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+---
