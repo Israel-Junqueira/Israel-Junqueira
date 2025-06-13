@@ -1,4 +1,4 @@
-### 👋 Olá,
+### 👋 Olá, sou o Israel 
 <p align="center">
   <a href="https://www.linkedin.com/in/israel-ribeiro-junqueira-525757191/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
