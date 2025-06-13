@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Israel
 
-<img align="right" height="150px" src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" />
+<img align="right" height="150px" src="[https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif](https://media.giphy.com/media/3o7aD4xoAfQFFTu3Ne/giphy.gif)" />
 
 Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquitetura limpa. Apaixonado por escrever código com propósito e colaborar com áreas de negócio para criar soluções que geram valor real.
 
