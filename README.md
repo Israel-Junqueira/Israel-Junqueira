@@ -36,7 +36,7 @@ Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquite
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter"/>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/>
+  <img height="40" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.svg" alt="AWS"/>
 
 </div>
 
