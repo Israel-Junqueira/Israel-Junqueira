@@ -13,7 +13,7 @@ Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquite
 - Git e Gitflow
 - Azure DevOps (CI/CD)
 - AWS (ECS, SQS, S3)
-- Flutter (básico)
+
 
 📈 Atualmente atuo no setor financeiro, com foco em modernização de sistemas para cooperativas de crédito e construção de microsserviços escaláveis.
 
