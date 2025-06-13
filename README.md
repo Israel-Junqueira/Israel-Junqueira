@@ -35,14 +35,6 @@ Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquite
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-ribeiro-junqueira-525757191/)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israelribeiro313@gmail.com)
 
----
-
-### 📊 Total de Visitas no Perfil
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Israel-Junqueira/count.svg" />
-</p>
-
----
 
 ✨ "Mais do que código, escrevo soluções com propósito."
 
