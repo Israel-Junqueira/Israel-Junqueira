@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquitetura limpa. Apaixonado por escrever código com propósito e colaborar com áreas de negócio para criar soluções que geram valor real.
+Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquitetura limpa. Motivado por escrever código com propósito e colaborar com áreas de negócio para criar soluções que geram valor real.
 
 🔧 Tecnologias que trabalho:
 - C#, .NET Core
