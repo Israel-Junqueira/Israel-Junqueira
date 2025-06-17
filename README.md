@@ -6,6 +6,8 @@
   <a href="mailto:israelribeiro313@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://israel-junqueira.github.io/"> <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /> 
+  </a>
 </p>
 
 Desenvolvedor focado em soluções backend com C#, .NET, PL/SQL Oracle e arquitetura limpa. Motivado por escrever código com propósito e colaborar com áreas de negócio para criar soluções que geram valor real.
